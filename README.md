@@ -1,0 +1,1 @@
+# shaft-pom-api-samples
